@@ -24,17 +24,17 @@ Apart from  research, my other interests include travelling, tekking and nature 
     [Kolhan University, Chaibasa](https://www.kolhanuniversity.ac.in/) \
     2012 - 2015
     
-### Category Name 1 
+### Projects 
 
-[Project 1 Title](/sample_page)
+[Asynchronous Discontinuous Galerkin Schemes](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[DS 200 -  Research Methods](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Betti Numbers of Products of Graphs](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
