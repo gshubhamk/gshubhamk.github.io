@@ -1,7 +1,7 @@
-logo: "/images/avatar.jpg?size=10% auto" # your photo (or logo) here
+#logo: "/images/avatar.jpg?size=10% auto" # your photo (or logo) here
 
 title: Shubham Kumar Goswami # your name (or website title) here
-#avatar: /images/avatar.jpg # your photo (or logo) here
+avatar: "/images/avatar.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   PhD at <a href="https://www.cds.iisc.ac.in/">Department of Computational and Data Sciences</a>  
   <br><br>
