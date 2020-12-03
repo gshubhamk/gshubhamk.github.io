@@ -38,3 +38,13 @@ The idea is to introduce asynchrony to the Discontinuous Galerkin schemes during
 ---
 <!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
 <!-- Remove above link if you don't want to attibute -->
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+[![alt text][4.1]][4]
+[![alt text][5.1]][5]
+[![alt text][6.1]][6]
+
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/shubham-kumar-goswami-7a4a8795
