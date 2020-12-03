@@ -26,16 +26,16 @@ Apart from  research, my other interests include travelling, tekking and nature 
     
 ### Projects 
 
-[Asynchronous Discontinuous Galerkin Schemes](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Asynchronous Discontinuous Galerkin Schemes](https://github.com/gshubhamk/dg1d)
+<img src="images/avatar.jpg?raw=true"/>
 
 ---
 [DS 200 -  Research Methods](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/avatar.jpg?raw=true"/>
 
 ---
 [Betti Numbers of Products of Graphs](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/avatar.jpg?raw=true"/>
 
 ---
 
