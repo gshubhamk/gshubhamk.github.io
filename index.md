@@ -33,7 +33,7 @@ The idea is to introduce asynchrony to the Discontinuous Galerkin schemes during
 [DS 200 -  Research Methods](/pdf/sample_presentation.pdf)
 
 ---
-[Betti Numbers of Products of Graphs](http://example.com/)
+[Homology Groups for Simplicial Complexes defined by Product Graphs and Joins](http://example.com/)
 
 ---
 <!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
