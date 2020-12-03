@@ -27,7 +27,7 @@ Apart from  research, my other interests include travelling, tekking and nature 
 ### Projects 
 
 [Asynchronous Discontinuous Galerkin Schemes](https://github.com/gshubhamk/dg1d)
-The idea is to introduce asynchrony to the Discontinuous Galerkin schemes during time integration and analyse the stability, convergence and performance of the synchronous DG schemes. This will lead us to a highly scalabale DG solver for PDEs.
+The idea is to introduce asynchrony to the Discontinuous Galerkin schemes during time integration and analyse the stability, convergence and performance of the new formulation. Finally, we plan to have a highly scalabale DG solver for PDEs.
 <img src="images/BurgersLDG.eps?raw=true"/>
 
 ---
