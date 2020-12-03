@@ -64,8 +64,5 @@ The idea is to introduce asynchrony to the Discontinuous Galerkin schemes during
 <!-- update these accordingly -->
 
 [1]: https://www.linkedin.com/in/shubham-kumar-goswami-7a4a8795
-[6]: http://www.github.com/carlsednaoui
+[6]: https://github.com/gshubhamk
 
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/shubham-kumar-goswami-7a4a8795
