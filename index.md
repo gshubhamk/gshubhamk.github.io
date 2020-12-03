@@ -75,11 +75,7 @@ The idea is to introduce asynchrony to the Discontinuous Galerkin schemes during
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
-[1]: http://www.twitter.com/carlsednaoui
-[2]: http://www.facebook.com/sednaoui
-[3]: https://plus.google.com/+CarlSednaoui
-[4]: http://carlsed.tumblr.com
-[5]: http://dribbble.com/carlsednaoui
+[1]: https://www.linkedin.com/in/shubham-kumar-goswami-7a4a8795
 [6]: http://www.github.com/carlsednaoui
 
 - icon: linkedin
