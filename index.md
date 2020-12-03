@@ -28,31 +28,13 @@ Apart from  research, my other interests include travelling, tekking and nature 
 
 [Asynchronous Discontinuous Galerkin Schemes](https://github.com/gshubhamk/dg1d)
 The idea is to introduce asynchrony to the Discontinuous Galerkin schemes during time integration and analyse the stability, convergence and performance of the new formulation. Finally, we plan to have a highly scalabale DG solver for PDEs.
-<img src="images/BurgersLDG.eps?raw=true"/>
 
 ---
 [DS 200 -  Research Methods](/pdf/sample_presentation.pdf)
-<img src="images/avatar.jpg?raw=true"/>
 
 ---
 [Betti Numbers of Products of Graphs](http://example.com/)
-<img src="images/avatar.jpg?raw=true"/>
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
 <!-- Remove above link if you don't want to attibute -->
