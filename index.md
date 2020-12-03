@@ -1,4 +1,4 @@
-<img src="https://github.com/gshubhamk/mywebpage/blob/master/avatar.jpg"width="250">
+<img src="https://raw.githubusercontent.com/gshubhamk/mywebpage/master/avatar.jpg"width="250">
 ## About Me
 ---
 I am a part of [FLAME lab](http://cds.iisc.ac.in/faculty/konduriadi/) at [CDS](https://cds.iisc.ac.in), [IISc](https://iisc.ac.in) since August 2019, working with [Dr. Konduri Aditya](http://cds.iisc.ac.in/faculty/konduriadi/) on Asynchronous schemes for Partial Differential Equations. My research work includes the performance analysis of numerical methods such as Finite Volume, Finite Element and Discontinuous Galerkin and effects of introducing asynchrony to them while performing parallel computations on massively parallel supercomputers. The aim is to develope scalable asynchronous PDE solvers.
