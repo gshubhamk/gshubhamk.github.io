@@ -31,8 +31,8 @@ Apart from  research, my other interests include travelling, tekking and nature 
 The idea is to introduce asynchrony to the Discontinuous Galerkin schemes while doing time integration and analyse the stability, convergence and performance of the new formulation. And finally implement it to C++/Fortran to get a highly scalable DG solver for PDEs.
 
 ---
-[DS 200 -  Research Methods](/pdf/sample_presentation.pdf) \
-#### Module 4: Visulatization of datasets using Matplotlib
+[DS 200 -  Research Methods](/pdf/sample_presentation.pdf) 
+##### Module 4: Visulatization of datasets using Matplotlib
 We use data from (https://www.data.gov.on)
 
 ---
