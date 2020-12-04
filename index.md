@@ -44,7 +44,7 @@ The idea is to introduce asynchrony to the Discontinuous Galerkin schemes while 
 <!-- display the social media buttons in your README -->
 ---
 ### Contact
-Mail Id: [mailto](mailto:shubhamkg@iisc.ac.in) \
+Mail Id: [shubhamkg@iisc.ac.in](mailto:shubhamkg@iisc.ac.in) \
 You can also find me on[![alt text][1.1]][2]and [![alt text][2.1]][1]
 
 
