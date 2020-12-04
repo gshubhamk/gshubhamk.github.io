@@ -48,7 +48,7 @@ The purpose of this project was to derive some relations between betti numbers o
 ---
 ### Contact
 Mail Id: [shubhamkg@iisc.ac.in](mailto:shubhamkg@iisc.ac.in) \
-You can also find me on[![alt text][1.1]][2]and [![alt text][2.1]][1]
+You can also find me on[![alt text][1.1]][1]and [![alt text][2.1]][2]
 
 
 <!-- links to social media icons -->
@@ -58,20 +58,20 @@ You can also find me on[![alt text][1.1]][2]and [![alt text][2.1]][1]
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: https://i.stack.imgur.com/gVE0j.png (linkedin)
-[6.1]: https://i.stack.imgur.com/tskMh.png (github icon with padding)
+[3.1]: https://i.stack.imgur.com/tskMh.png (github icon with padding)
 
 <!-- icons without padding -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[3.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 
 
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
-[1]: https://www.linkedin.com/in/shubham-kumar-goswami-7a4a8795
-[2]: https://twitter.com/shubhamtweets2
-[6]: https://github.com/gshubhamk
+[1]: https://twitter.com/shubhamtweets2
+[2]: https://www.linkedin.com/in/shubham-kumar-goswami-7a4a8795
+[3]: https://github.com/gshubhamk
 
 
 ---
