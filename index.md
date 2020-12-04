@@ -26,7 +26,7 @@ Apart from  research, my other interests include travelling, tekking and nature 
 
 ## Awards
 ---
-  - __Junior Research Fellowship__ by Council of Scientific & Industrial Research (CSIR), India 2019-2024
+  - __Junior Research Fellowship__ by Council of Scientific & Industrial Research (CSIR), India 2019-24
 ## Projects 
 ---
 
