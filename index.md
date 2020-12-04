@@ -14,13 +14,13 @@ Apart from  research, my other interests include travelling, tekking and nature 
 
 ## Education
 ---
-  - Ph.D. in Computational and Data Sciences \
+  - __Ph.D. in Computational and Data Sciences__ \
     [Indian Institute of Science, Bengaluru](https://iisc.ac.in/) \
     2019 - Present
-  - M.Sc. in Mathematics \
+  - __M.Sc. in Mathematics__ \
     [Indian Institute of Technology, Kharagpur](http://iitkgp.ac.in/) \
     2016 - 2018
-  - B.Sc. in Mathematics \
+  - __B.Sc. in Mathematics__ \
     [Kolhan University, Chaibasa](https://www.kolhanuniversity.ac.in/) \
     2012 - 2015
 
