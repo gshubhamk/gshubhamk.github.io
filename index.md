@@ -43,7 +43,8 @@ The idea is to introduce asynchrony to the Discontinuous Galerkin schemes during
 <!-- display the social media buttons in your README -->
 ---
 ### Contact
-You can find me on Twitter [![alt text][1.1]][2] and Linkedin [![alt text][2.1]][1]
+Mail Id: shubhamkg #at #iisc.ac.in
+You can also find me on Twitter [![alt text][1.1]][2] and Linkedin [![alt text][2.1]][1]
 
 
 <!-- links to social media icons -->
@@ -67,4 +68,6 @@ You can find me on Twitter [![alt text][1.1]][2] and Linkedin [![alt text][2.1]]
 [1]: https://www.linkedin.com/in/shubham-kumar-goswami-7a4a8795
 [2]: https://twitter.com/shubhamtweets2
 [6]: https://github.com/gshubhamk
+
+
 ---
