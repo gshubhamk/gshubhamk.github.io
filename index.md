@@ -43,6 +43,7 @@ The idea is to introduce asynchrony to the Discontinuous Galerkin schemes during
 <!-- display the social media buttons in your README -->
 
 [![alt text][1.1]][1]
+[![alt text][2.1]][2]
 [![alt text][6.1]][6]
 
 
@@ -52,6 +53,7 @@ The idea is to introduce asynchrony to the Discontinuous Galerkin schemes during
 <!-- icons with padding -->
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2:1]: http://www.entypo.com/images/linkedin-with-circle.svg (twitter)
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 <!-- icons without padding -->
@@ -64,5 +66,6 @@ The idea is to introduce asynchrony to the Discontinuous Galerkin schemes during
 <!-- update these accordingly -->
 
 [1]: https://www.linkedin.com/in/shubham-kumar-goswami-7a4a8795
+[2]: https://twitter.com/shubhamtweets2
 [6]: https://github.com/gshubhamk
 
