@@ -4,9 +4,9 @@ title: Shubham Kumar Goswami # your name (or website title) here
 #avatar: "/images/avatar.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   PhD at <a href="http://www.cds.iisc.ac.in/">Department of Computational and Data Sciences</a>  
-  <br><br>
+  <br>
   <a href="https://www.iisc.ac.in/">Indian Institute of Science, Bangalore</a>  
-  <br><br>
+  <br>
   <a href="https://github.com/gshubhamk/">View My Github Profile</a>
 
 theme: jekyll-theme-minimal
