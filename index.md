@@ -23,7 +23,10 @@ Apart from  research, my other interests include travelling, tekking and nature 
   - B.Sc. in Mathematics \
     [Kolhan University, Chaibasa](https://www.kolhanuniversity.ac.in/) \
     2012 - 2015
-    
+
+## Awards
+---
+  - ### Junior Research Fellowship by Council of Scientific & Industrial Research (CSIR), 2019-2024
 ## Projects 
 ---
 
