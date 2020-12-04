@@ -43,7 +43,7 @@ The idea is to introduce asynchrony to the Discontinuous Galerkin schemes during
 <!-- display the social media buttons in your README -->
 ---
 ### Contact
-You can find my Github page [![alt text][2.1]][2] or connect to me through my Twitter[![alt text][1.1]][1] or Linkedin profiles[![alt text][6.1]][6]
+You can find me on Twitter [![alt text][2.1]][1] and Linkedin [![alt text][1.1]][2]
 
 
 <!-- links to social media icons -->
