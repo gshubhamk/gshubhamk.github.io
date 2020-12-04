@@ -36,7 +36,7 @@ The idea is to introduce asynchrony to the Discontinuous Galerkin schemes while 
 We use data from https://www.data.gov.on
 
 ---
-[Homology Groups for Simplicial Complexes defined by Product Graphs and Joins](http://example.com/) \
+Homology Groups for Simplicial Complexes defined by Product Graphs and Joins \
 The purpose of this project was to derive some relations between betti numbers of simplicial complexes of graphs and their products. It was a part of the final year M.Sc. Project in the [Department of Mathematics](http://www.iitkgp.ac.in/department/MA) at [IIT Kharagapur](http://www.iitkgp.ac.in). And I was supervised by professor [Bibhas Adhikar](http://www.iitkgp.ac.in/department/MA/faculty/ma-bibhas). We mainly worked on Corona Product and Kronecker product of graphs and derived direct relations to obtain betti numbers of the products, provided that we have all the informations about the graphs taking part in products. It makes the task of studying the topological properties of big networks very easy, if there are generation processes available to generate the big network using small ones.
 
 ---
