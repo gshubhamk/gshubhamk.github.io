@@ -43,8 +43,8 @@ The idea is to introduce asynchrony to the Discontinuous Galerkin schemes during
 <!-- display the social media buttons in your README -->
 ---
 ### Contact
-[![alt text][1.1]][1]
 [![alt text][2.1]][2]
+[![alt text][1.1]][1]
 [![alt text][6.1]][6]
 
 
