@@ -33,7 +33,7 @@ The idea is to introduce asynchrony to the Discontinuous Galerkin schemes while 
 ---
 [DS 200 -  Research Methods](/pdf/sample_presentation.pdf) 
 ##### Module 4: Visulatization of datasets using Matplotlib
-We use data from (https://www.data.gov.on)
+We use data from https://www.data.gov.on
 
 ---
 [Homology Groups for Simplicial Complexes defined by Product Graphs and Joins](http://example.com/) \
