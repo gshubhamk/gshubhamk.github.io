@@ -1,8 +1,8 @@
 ## About Me
 ---
-I am enrolled in the Ph.D. program at [CDS](http://cds.iisc.ac.in), [IISc](https://iisc.ac.in) and associated with [FLAME Lab](http://cds.iisc.ac.in/faculty/konduriadi/), headed by [Dr. Konduri Aditya](http://cds.iisc.ac.in/faculty/konduriadi/). I am currently working on Asynchronous Numerical schemes for Partial Differential Equations. My research work includes the performance analysis of numerical methods such as Finite Volume, Finite Element and Discontinuous Galerkin and effects of introducing asynchrony to them while performing parallel computations on massively parallel supercomputers. The aim is to develope scalable asynchronous PDE solvers.
+I am enrolled in the Ph.D. program at [CDS](http://cds.iisc.ac.in), [IISc](https://iisc.ac.in) and associated with [FLAME Lab](http://cds.iisc.ac.in/faculty/konduriadi/), headed by [Dr. Konduri Aditya](http://cds.iisc.ac.in/faculty/konduriadi/). Currently, I am working on Asynchronous Numerical schemes for Partial Differential Equations. My research work includes the performance analysis of numerical methods such as Finite Volume, Finite Element and Discontinuous Galerkin and effects of introducing asynchrony to them while performing parallel computations on massively parallel supercomputers. The aim is to develope scalable asynchronous PDE solvers.
 
-My interest also lies in Pure Mathematics, especially areas related to Topology. I worked on Topological Combinatorics during my M.Sc., where the problem was to derive the relations between betti numbers of simplicial complexes of graphs and their various kinds of products.
+My interest also lies in Pure Mathematics, especially areas related to Topology. I worked on a problem related to Topological Combinatorics during my M.Sc., where the objective was to derive the relations between betti numbers of simplicial complexes of graphs and their various kinds of products.
 
 Apart from  research, my other interests include travelling, tekking and nature photography. I have always been fond of nature and its beauty and love to explore new places. 
 
