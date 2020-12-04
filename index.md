@@ -1,31 +1,3 @@
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][6.1]][6]
-
-
-<!-- links to social media icons -->
-<!-- no need to change these -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: https://i.stack.imgur.com/gVE0j.png (linkedin)
-[6.1]: https://i.stack.imgur.com/tskMh.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-
-
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
-
-[1]: https://www.linkedin.com/in/shubham-kumar-goswami-7a4a8795
-[2]: https://twitter.com/shubhamtweets2
-[6]: https://github.com/gshubhamk
----
-
 ## About Me
 ---
 I am a part of [FLAME lab](http://cds.iisc.ac.in/faculty/konduriadi/) at [CDS](https://cds.iisc.ac.in), [IISc](https://iisc.ac.in) since August 2019, working with [Dr. Konduri Aditya](http://cds.iisc.ac.in/faculty/konduriadi/) on Asynchronous schemes for Partial Differential Equations. My research work includes the performance analysis of numerical methods such as Finite Volume, Finite Element and Discontinuous Galerkin and effects of introducing asynchrony to them while performing parallel computations on massively parallel supercomputers. The aim is to develope scalable asynchronous PDE solvers.
@@ -69,4 +41,32 @@ The idea is to introduce asynchrony to the Discontinuous Galerkin schemes during
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
+---
+### Contact
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][6.1]][6]
 
+
+<!-- links to social media icons -->
+<!-- no need to change these -->
+
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: https://i.stack.imgur.com/gVE0j.png (linkedin)
+[6.1]: https://i.stack.imgur.com/tskMh.png (github icon with padding)
+
+<!-- icons without padding -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+
+
+<!-- links to your social media accounts -->
+<!-- update these accordingly -->
+
+[1]: https://www.linkedin.com/in/shubham-kumar-goswami-7a4a8795
+[2]: https://twitter.com/shubhamtweets2
+[6]: https://github.com/gshubhamk
+---
