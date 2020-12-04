@@ -53,8 +53,8 @@ The idea is to introduce asynchrony to the Discontinuous Galerkin schemes during
 <!-- icons with padding -->
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: https://i.stack.imgur.com/gVE0j.png (twitter)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[2.1]: https://i.stack.imgur.com/gVE0j.png (linkedin)
+[6.1]: https://i.stack.imgur.com/tskMh.png (github icon with padding)
 
 <!-- icons without padding -->
 
