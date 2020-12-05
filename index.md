@@ -34,7 +34,6 @@ Apart from  research, my other interests include travelling, tekking and nature 
 ### Asynchronous Discontinuous Galerkin Schemes
 The idea is to introduce asynchrony to the Discontinuous Galerkin schemes while doing time integration and analyse the stability, convergence and performance of the new formulation. And finally implement it in C++/Fortran to get a highly scalable DG solver for PDEs.
 
----
 ### DS 200 -  Research Methods
 ##### Module 4: Visulatization of datasets using Matplotlib
 Data on faculties in IITs and LPG consumption in India for the years 2012-19 have been accessed from https://www.data.gov.in. And then using a python script we obtain bar plot and scatter plot for the first data and box plot for the second data to study the growth and other related factors. For further reference, please visit the respective [github repository](https://github.com/gshubhamk/ds200-module4).  
