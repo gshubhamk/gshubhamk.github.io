@@ -31,24 +31,19 @@ Apart from  research, my other interests include travelling, tekking and nature 
 ## Projects 
 ---
 
-### [Asynchronous Discontinuous Galerkin Schemes](https://github.com/gshubhamk/dg1d)
+### Asynchronous Discontinuous Galerkin Schemes
 The idea is to introduce asynchrony to the Discontinuous Galerkin schemes while doing time integration and analyse the stability, convergence and performance of the new formulation. And finally implement it in C++/Fortran to get a highly scalable DG solver for PDEs.
 
 ---
-### [DS 200 -  Research Methods](https://github.com/gshubhamk/ds200-module4) 
+### DS 200 -  Research Methods
 ##### Module 4: Visulatization of datasets using Matplotlib
-Data on faculties in IITs and LPG consumption in India for the years 2012-19 have been accessed from https://www.data.gov.in. And then using a python script we obtain bar plot and scatter plot for the first data and box plot for the second data to study the growth and other related factors.
+Data on faculties in IITs and LPG consumption in India for the years 2012-19 have been accessed from https://www.data.gov.in. And then using a python script we obtain bar plot and scatter plot for the first data and box plot for the second data to study the growth and other related factors. For further reference, please visit the respective [github repository](https://github.com/gshubhamk/ds200-module4).  
 
 ### Homology Groups for Simplicial Complexes defined by Product Graphs and Joins 
 The purpose of this project was to derive some relations between betti numbers of simplicial complexes of graphs and their products. It was a part of the final year M.Sc. Project in the [Department of Mathematics](http://www.iitkgp.ac.in/department/MA) at [IIT Kharagapur](http://www.iitkgp.ac.in), where I was supervised by professor [Bibhas Adhikar](http://www.iitkgp.ac.in/department/MA/faculty/ma-bibhas). We mainly worked on Corona products and Kronecker products of graphs and derived direct relations to obtain betti numbers of the products, provided we have all the informations about the graphs taking part in products. It makes the task of studying topological properties of big networks vey easy, assuming there are generation processes available to generate the big network using small ones.
 
 ---
-<!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
-<!-- Remove above link if you don't want to attibute -->
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
-<!-- display the social media buttons in your README -->
----
+___
 ### Contact
 Mail Id: [shubhamkg@iisc.ac.in](mailto:shubhamkg@iisc.ac.in) \
 You can also find me on[![alt text][1.1]][1]and [![alt text][2.1]][2]
