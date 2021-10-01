@@ -29,7 +29,7 @@ Apart from research, my other interests include traveling, trekking, and nature 
 ## Projects 
 ---
 
-### Asynchronous discontinuous-Galerkin Schemes
+### Asynchronous discontinuous-Galerkin schemes
 The idea is to introduce asynchrony to the discontinuous-Galerkin schemes while doing time integration and analyse the stability, convergence and performance of the new formulation. And finally implement it in C++/Fortran to get a highly scalable DG-based solver for PDEs.
 
 ---
