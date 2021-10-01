@@ -1,14 +1,14 @@
 ## About Me
 ---
-I am enrolled in the Ph.D. program at [CDS](http://cds.iisc.ac.in), [IISc](https://iisc.ac.in), and associated with [FLAME Lab](http://cds.iisc.ac.in/faculty/konduriadi/) headed by [Dr. Konduri Aditya](http://cds.iisc.ac.in/faculty/konduriadi/) since 2019. Currently, I am working on Asynchronous Numerical schemes for Partial Differential Equations. My research work includes the performance analysis of numerical methods such as Finite difference and discontinuous-Galerkin and studying the effects of introducing asynchrony to them while performing parallel computations on massively parallel supercomputers. The aim is to develop a highly scalable DG-based PDE solver.
+I am enrolled in the Ph.D. program at [CDS](http://cds.iisc.ac.in), [IISc](https://iisc.ac.in), and associated with [FLAME Lab](http://cds.iisc.ac.in/faculty/konduriadi/) headed by [Dr. Konduri Aditya](http://cds.iisc.ac.in/faculty/konduriadi/) since 2019. Currently, I am working on developing asynchronous numerical algorithms for partial differential equations for exascale computing. My research work includes the performance analysis of numerical methods such as Finite difference and discontinuous-Galerkin and studying the effects of introducing asynchrony to them while performing parallel computations on massively parallel supercomputers. The aim is to develop a highly scalable DG-based PDE solver.
 
 Apart from research, my other interests include traveling, trekking, and nature photography. I am incredibly fond of nature and its beauty and love to explore new places.
 
 ## Interests
 ---
-- Computational Mathematics
-- Numerical Methods
-- High Performance Computing
+- Numerical methods for PDEs
+- High performance computing
+- Computational mathematics
 
 ## Education
 ---
