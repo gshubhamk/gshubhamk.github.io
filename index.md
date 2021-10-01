@@ -47,7 +47,8 @@ The purpose of this project was to derive some relations between betti numbers o
 ___
 ### Contact
 Mail Id: [shubhamkg@iisc.ac.in](mailto:shubhamkg@iisc.ac.in) \
-You can also find me on[![alt text][1.1]][1]and [![alt text][2.1]][2]
+You can also find me on[![alt text][1.1]][1] [![alt text][2.1]][2] and ![alt text][3.1]][3]
+
 
 
 <!-- links to social media icons -->
@@ -71,6 +72,7 @@ You can also find me on[![alt text][1.1]][1]and [![alt text][2.1]][2]
 [1]: https://twitter.com/shubhamtweets2
 [2]: https://www.linkedin.com/in/shubham-kumar-goswami-7a4a8795
 [3]: https://github.com/gshubhamk
+[4]: https://scholar.google.com/citations?hl=en&user=3XXB62MAAAAJ
 
 
 ---
