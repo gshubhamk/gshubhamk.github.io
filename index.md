@@ -1,8 +1,8 @@
 ## About Me
 ---
-I am enrolled in the Ph.D. program at [CDS](http://cds.iisc.ac.in), [IISc](https://iisc.ac.in), and associated with [FLAME Lab](http://cds.iisc.ac.in/faculty/konduriadi/) headed by [Dr. Konduri Aditya](http://cds.iisc.ac.in/faculty/konduriadi/) since 2019. Currently, I am working on developing asynchronous numerical algorithms for partial differential equations for exascale computing. My research work includes the performance analysis of numerical methods such as Finite difference and discontinuous-Galerkin and studying the effects of introducing asynchrony to them while performing parallel computations on massively parallel supercomputers. The aim is to develop a highly scalable DG-based PDE solver.
+I am enrolled in the Ph.D. program at [CDS](http://cds.iisc.ac.in), [IISc](https://iisc.ac.in), and associated with [FLAME Lab](http://cds.iisc.ac.in/faculty/konduriadi/) headed by [Dr. Konduri Aditya](http://cds.iisc.ac.in/faculty/konduriadi/) since 2019. Currently, I am working on developing asynchronous numerical schemes for partial differential equations for exascale computing. My research work includes the performance analysis of numerical methods such as Finite difference and discontinuous-Galerkin and studying the effects of introducing asynchrony to them while performing parallel computations on massively parallel supercomputers. The aim is to develop a highly scalable DG-based PDE solver.
 
-Apart from research, my other interests include traveling, trekking, and nature photography. I am incredibly fond of nature and its beauty and love to explore new places.
+Apart from research, my other interests include traveling, trekking, and nature photography. I am incredibly fond of nature and its beauty and I love exploring new places.
 
 ## Interests
 ---
@@ -24,13 +24,14 @@ Apart from research, my other interests include traveling, trekking, and nature 
 
 ## Awards
 ---
-  - __Junior Research Fellowship__ by Council of Scientific & Industrial Research (CSIR), India 2019-24
+  - __Junior Research Fellowship__ by Council of Scientific & Industrial Research (CSIR), India 2019-21
+  - __Senior Research Fellowship__ by Council of Scientific & Industrial Research (CSIR), India 2021-24
   
 ## Projects 
 ---
 
-### Asynchronous discontinuous-Galerkin schemes
-The idea is to introduce asynchrony to the discontinuous-Galerkin schemes while doing time integration and analyse the stability, convergence and performance of the new formulation. And finally implement it in C++/Fortran to get a highly scalable DG-based solver for PDEs.
+### Asynchronous discontinuous-Galerkin method
+The idea is to introduce asynchrony to the discontinuous-Galerkin method at a mathematical level while solving time-dependent partial differential equation in a distributed memory setting, analyze the stability, accuracy of the new formulation, and demnstrate its scalability. The final goal is to develop a highly scalable DG-based PDE solver for massively parallel supercomputers.
 
 ---
 
