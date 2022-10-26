@@ -47,16 +47,16 @@ The purpose of this project was to derive some relations between betti numbers o
 
 ## Conferences and Publications 
 ---
-  - __Implementation of low-storage Runge-Kutta time integration schemes in scalable asynchronous partial differential equation solvers__ \
-    S.K. Goswami, V.J. Matthew, K. Aditya \
-    Submitted to JCP
-  - __An asynchronous discontinuous-Galerkin method for solving PDEs at extreme scales__ \
-    S. K. Goswami, K. Aditya \
-    AIAA Aviation Forum 2022, [https://doi.org/10.2514/6.2022-4165](https://doi.org/10.2514/6.2022-4165/)
-  - __A low-storage Runge-Kutta time integration method for scalable asynchrony-tolerant numerical schemes__ \
-    S. Goswami, V. Matthew, K. Aditya \
-    APS DFD 2021, [https://ui.adsabs.harvard.edu/abs/2021APS..DFDA20009G](https://ui.adsabs.harvard.edu/abs/2021APS..DFDA20009G/)
----
+__Implementation of low-storage Runge-Kutta time integration schemes in scalable asynchronous partial differential equation solvers__ \
+S.K. Goswami, V.J. Matthew, K. Aditya \
+Submitted to JCP \
+__An asynchronous discontinuous-Galerkin method for solving PDEs at extreme scales__ \
+S. K. Goswami, K. Aditya \
+AIAA Aviation Forum 2022, [https://doi.org/10.2514/6.2022-4165](https://doi.org/10.2514/6.2022-4165/) \
+__A low-storage Runge-Kutta time integration method for scalable asynchrony-tolerant numerical schemes__ \
+S. Goswami, V. Matthew, K. Aditya \
+APS DFD 2021, [https://ui.adsabs.harvard.edu/abs/2021APS..DFDA20009G](https://ui.adsabs.harvard.edu/abs/2021APS..DFDA20009G/)
+
 ___
 ### Contact
 Mail Id: [shubhamkg@iisc.ac.in](mailto:shubhamkg@iisc.ac.in) \
