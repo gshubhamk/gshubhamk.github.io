@@ -44,6 +44,17 @@ Data on faculties in IITs and LPG consumption in India for the years 2012-19 hav
 ### Homology groups for simplicial complexes defined by product graphs and joins 
 The purpose of this project was to derive some relations between betti numbers of simplicial complexes of graphs and their products. It was a part of the final year M.Sc. Project in the [Department of Mathematics](http://www.iitkgp.ac.in/department/MA) at [IIT Kharagapur](http://www.iitkgp.ac.in), where I was supervised by professor [Bibhas Adhikar](http://www.iitkgp.ac.in/department/MA/faculty/ma-bibhas). We mainly worked on Corona products and Kronecker products of graphs and derived direct relations to obtain betti numbers of the products, provided we have all the informations about the graphs taking part in products. It makes the task of studying topological properties of big networks vey easy, assuming there are generation processes available to generate the big network using small ones.
 
+## Conferences and Publications 
+---
+  - __Implementation of low-storage Runge-Kutta time integration schemes in scalable asynchronous partial differential equation solvers__ \
+    S.K. Goswami, V.J. Matthew, K. Aditya \
+    Submitted to JCP
+  - __An asynchronous discontinuous-Galerkin method for solving PDEs at extreme scales__ \
+    S. K. Goswami, K. Aditya \
+    AIAA Aviation Forum 2022, [https://doi.org/10.2514/6.2022-4165](https://doi.org/10.2514/6.2022-4165/)
+  - __A low-storage Runge-Kutta time integration method for scalable asynchrony-tolerant numerical schemes__ \
+    S. Goswami, V. Matthew, K. Aditya \
+    APS DFD 2021, [https://ui.adsabs.harvard.edu/abs/2021APS..DFDA20009G](https://ui.adsabs.harvard.edu/abs/2021APS..DFDA20009G/)
 ---
 ___
 ### Contact
