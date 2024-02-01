@@ -1,6 +1,6 @@
 ## About Me
 ---
-I am enrolled in the Ph.D. program at [CDS](http://cds.iisc.ac.in), [IISc](https://iisc.ac.in), and associated with [FLAME Lab](http://cds.iisc.ac.in/faculty/konduriadi/) headed by [Dr. Konduri Aditya](http://cds.iisc.ac.in/faculty/konduriadi/) since 2019. Currently, I am working on developing asynchronous numerical schemes for partial differential equations for exascale computing. My research work focuses on investigating the numerical properties of asynchronous discontinuous-Galerkin method and developing highly scalable PDE solvers based on asynchronous numerical schemes for massively parallel supercomputers. The aim is to develop a highly scalable DG-based PDE solver.
+I am enrolled in the Ph.D. program at [CDS](http://cds.iisc.ac.in), [IISc](https://iisc.ac.in), and associated with [FLAME Lab](http://cds.iisc.ac.in/faculty/konduriadi/) headed by [Dr. Konduri Aditya](http://cds.iisc.ac.in/faculty/konduriadi/) since 2019. Currently, I am working on developing asynchronous numerical schemes for partial differential equations for exascale computing. My research work focuses on investigating the numerical properties of the asynchronous discontinuous-Galerkin method and developing highly scalable PDE solvers based on asynchronous numerical schemes for massively parallel supercomputers. The aim is to develop a highly scalable DG-based PDE solver.
 
 Apart from research, my other interests include traveling, trekking, and nature photography. I am incredibly fond of nature and its beauty, and I love exploring new places.
 
@@ -41,8 +41,8 @@ The objective is to introduce an asynchronous computing approach to the disconti
 ---
 
 <!--### DS 200 -  Research Methods
-##### Module 4: Visulatization of datasets using Matplotlib
-Data on faculties in IITs and LPG consumption in India for the years 2012-19 have been accessed from https://www.data.gov.in. And then using a python script we obtain bar plot and scatter plot for the first data and box plot for the second data to study the growth and other related factors. For further reference, please visit the respective [github repository](https://github.com/gshubhamk/ds200-module4).
+##### Module 4: Visualization of datasets using Matplotlib
+Data on faculties in IITs and LPG consumption in India for the years 2012-19 have been accessed from https://www.data.gov.in. And then, using a Python script, we obtain a bar plot and scatter plot for the first data and a box plot for the second data to study the growth and other related factors. For further reference, please visit the respective [GitHub repository](https://github.com/gshubhamk/ds200-module4).
 
 --- 
 -->
