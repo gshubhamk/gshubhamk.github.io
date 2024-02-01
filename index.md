@@ -66,7 +66,7 @@ S. K. Goswami, K. Aditya \
 SIAM Conference on Computational Science and Engineering 2023, [Abstract](https://meetings.siam.org/sess/dsp_talk.cfm?p=126263) \
 __A scalable asynchronous discontinuous-Galerkin method for massively parallel PDE solvers__ \
 S. K. Goswami, K. Aditya \
-APS Division of Fluid Dynamics 2022, [Abstract/](https://meetings.aps.org/Meeting/DFD22/Session/Q29.2) \
+APS Division of Fluid Dynamics 2022, [Abstract](https://meetings.aps.org/Meeting/DFD22/Session/Q29.2) \
 __A low-storage Runge-Kutta time integration method for scalable asynchrony-tolerant numerical schemes__ \
 S. K. Goswami, V. J. Matthew, K. Aditya \
 APS Division of Fluid Dynamics 2021, [Abstract](https://ui.adsabs.harvard.edu/abs/2021APS..DFDA20009G)
