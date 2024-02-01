@@ -1,8 +1,8 @@
 ## About Me
 ---
-I am enrolled in the Ph.D. program at [CDS](http://cds.iisc.ac.in), [IISc](https://iisc.ac.in), and associated with [FLAME Lab](http://cds.iisc.ac.in/faculty/konduriadi/) headed by [Dr. Konduri Aditya](http://cds.iisc.ac.in/faculty/konduriadi/) since 2019. Currently, I am working on developing asynchronous numerical schemes for partial differential equations for exascale computing. My research work includes the performance analysis of numerical methods such as Finite difference and discontinuous-Galerkin and studying the effects of introducing asynchrony to them while performing parallel computations on massively parallel supercomputers. The aim is to develop a highly scalable DG-based PDE solver.
+I am enrolled in the Ph.D. program at [CDS](http://cds.iisc.ac.in), [IISc](https://iisc.ac.in), and associated with [FLAME Lab](http://cds.iisc.ac.in/faculty/konduriadi/) headed by [Dr. Konduri Aditya](http://cds.iisc.ac.in/faculty/konduriadi/) since 2019. Currently, I am working on developing asynchronous numerical schemes for partial differential equations for exascale computing. My research work focuses on investigating the numerical properties of asynchronous discontinuous-Galerkin method and developing highly scalable PDE solvers based on asynchronous numerical schemes for massively parallel supercomputers. The aim is to develop a highly scalable DG-based PDE solver.
 
-Apart from research, my other interests include traveling, trekking, and nature photography. I am incredibly fond of nature and its beauty and I love exploring new places.
+Apart from research, my other interests include traveling, trekking, and nature photography. I am incredibly fond of nature and its beauty, and I love exploring new places.
 
 ## Interests
 ---
@@ -24,14 +24,17 @@ Apart from research, my other interests include traveling, trekking, and nature 
 
 ## Awards
 ---
-  - __Junior Research Fellowship__ by Council of Scientific & Industrial Research (CSIR), India 2019-21
+  - __Best Poster Award__ by IEEE International Conference on High Performance Computing, Data, and Analytics (HiPC) 2023
+  - __SIAM Student Travel Award__ by Society for Industrial and Applied Mathematics (SIAM) 2023
+  - __Ravi Salgia Student Travel Grant__ by Office of Development and Alumni Affairs, Indian Institute of Science, Bengaluru, India 2023
   - __Senior Research Fellowship__ by Council of Scientific & Industrial Research (CSIR), India 2021-24
+  - __Junior Research Fellowship__ by Council of Scientific & Industrial Research (CSIR), India 2019-21
   
 ## Projects 
 ---
 
 ### Asynchronous discontinuous-Galerkin method
-The idea is to introduce asynchrony to the discontinuous-Galerkin method at a mathematical level while solving time-dependent partial differential equation in a distributed memory setting, analyze the stability, accuracy of the new formulation, and demnstrate its scalability. The final goal is to develop a highly scalable DG-based PDE solver for massively parallel supercomputers.
+The objective is to introduce an asynchronous computing approach to the discontinuous-Galerkin method by relaxing communication/synchronization at a mathematical level while solving time-dependent partial differential equations in a distributed memory setting, analyze the numerical properties of the new formulation, and demonstrate its scalability. The final goal is to develop a highly scalable DG-based PDE solver for massively parallel supercomputers.
 
 ---
 
@@ -43,7 +46,7 @@ Data on faculties in IITs and LPG consumption in India for the years 2012-19 hav
 -->
 
 ### Homology groups for simplicial complexes defined by product graphs and joins 
-The purpose of this project was to derive some relations between betti numbers of simplicial complexes of graphs and their products. It was a part of the final year M.Sc. Project in the [Department of Mathematics](http://www.iitkgp.ac.in/department/MA) at [IIT Kharagapur](http://www.iitkgp.ac.in), where I was supervised by professor [Bibhas Adhikar](http://www.iitkgp.ac.in/department/MA/faculty/ma-bibhas). We mainly worked on Corona products and Kronecker products of graphs and derived direct relations to obtain betti numbers of the products, provided we have all the informations about the graphs taking part in products. It makes the task of studying topological properties of big networks vey easy, assuming there are generation processes available to generate the big network using small ones.
+The purpose of this project was to derive relations between betti numbers of simplicial complexes of graphs and their products. It was a part of the final year M.Sc. Project in the [Department of Mathematics](http://www.iitkgp.ac.in/department/MA) at [IIT Kharagapur](http://www.iitkgp.ac.in), where I was supervised by professor [Bibhas Adhikar](http://www.iitkgp.ac.in/department/MA/faculty/ma-bibhas). We mainly worked on Corona products and Kronecker products of graphs and derived direct relations to obtain betti numbers of the products, provided we have all the information about the graphs taking part in products. It makes the task of studying the topological properties of big networks very easy, assuming there are generation processes available to generate the big network using small ones.
 
 ## Conferences and Publications 
 ---
