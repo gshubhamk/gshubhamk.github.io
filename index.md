@@ -58,9 +58,18 @@ Journal of Computational Physics 2023, [doi.org/10.1016/j.jcp.2023.111922](https
 __An asynchronous discontinuous-Galerkin method for solving PDEs at extreme scales__ \
 S. K. Goswami, K. Aditya \
 AIAA Aviation Forum 2022, [doi.org/10.2514/6.2022-4165](https://doi.org/10.2514/6.2022-4165) \
+__Implementation of the asynchronous discontinuous-Galerkin method for reacting flow simulations__ \
+S. K. Goswami, D. Vidyesh, K. Aditya \
+APS Division of Fluid Dynamics 2023, [Abstract/](https://meetings.aps.org/Meeting/DFD23/Session/G16.1)
+__Stability analysis of the asynchronous discontinuous-Galerkin method__ \
+S. K. Goswami, K. Aditya \
+SIAM Conference on Computational Science and Engineering 2023, [Abstract/](https://meetings.siam.org/sess/dsp_talk.cfm?p=126263)
+__A scalable asynchronous discontinuous-Galerkin method for massively parallel PDE solvers__ \
+S. K. Goswami, K. Aditya \
+APS Division of Fluid Dynamics 2022, [Abstract/](https://meetings.aps.org/Meeting/DFD22/Session/Q29.2)
 __A low-storage Runge-Kutta time integration method for scalable asynchrony-tolerant numerical schemes__ \
-S. Goswami, V. Matthew, K. Aditya \
-APS DFD 2021, [Abstract/](https://ui.adsabs.harvard.edu/abs/2021APS..DFDA20009G)
+S. K. Goswami, V. J. Matthew, K. Aditya \
+APS Division of Fluid Dynamics 2021, [Abstract/](https://ui.adsabs.harvard.edu/abs/2021APS..DFDA20009G)
 
 ___
 ### Contact
