@@ -54,13 +54,13 @@ The purpose of this project was to derive relations between betti numbers of sim
 ---
 __Implementation of low-storage Runge-Kutta time integration schemes in scalable asynchronous partial differential equation solvers__ \
 S.K. Goswami, V.J. Matthew, K. Aditya \
-Journal of Computational Physics 2023, [https://doi.org/10.1016/j.jcp.2023.111922](doi.org/10.1016/j.jcp.2023.111922) \
+Journal of Computational Physics 2023, [doi.org/10.1016/j.jcp.2023.111922](https://doi.org/10.1016/j.jcp.2023.111922) \
 __An asynchronous discontinuous-Galerkin method for solving PDEs at extreme scales__ \
 S. K. Goswami, K. Aditya \
-AIAA Aviation Forum 2022, [https://doi.org/10.2514/6.2022-4165](doi.org/10.2514/6.2022-4165) \
+AIAA Aviation Forum 2022, [doi.org/10.2514/6.2022-4165](https://doi.org/10.2514/6.2022-4165) \
 __A low-storage Runge-Kutta time integration method for scalable asynchrony-tolerant numerical schemes__ \
 S. Goswami, V. Matthew, K. Aditya \
-APS DFD 2021, [https://ui.adsabs.harvard.edu/abs/2021APS..DFDA20009G](Abstract/)
+APS DFD 2021, [Abstract/](https://ui.adsabs.harvard.edu/abs/2021APS..DFDA20009G)
 
 ___
 ### Contact
