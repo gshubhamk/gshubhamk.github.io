@@ -52,6 +52,9 @@ The purpose of this project was to derive relations between betti numbers of sim
 
 ## Conferences and Publications 
 ---
+__An asynchronous discontinuous Galerkin method for massively parallel PDE solvers__ \
+S.K. Goswami, K. Aditya \
+arXiv 2024, [doi.org/10.48550/arXiv.2404.03399](https://doi.org/10.48550/arXiv.2404.03399) \
 __Implementation of low-storage Runge-Kutta time integration schemes in scalable asynchronous partial differential equation solvers__ \
 S.K. Goswami, V.J. Matthew, K. Aditya \
 Journal of Computational Physics 2023, [doi.org/10.1016/j.jcp.2023.111922](https://doi.org/10.1016/j.jcp.2023.111922) \
