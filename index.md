@@ -1,8 +1,8 @@
 ## About Me
 ---
-I am enrolled in the Ph.D. program at [CDS](http://cds.iisc.ac.in), [IISc](https://iisc.ac.in), and associated with [FLAME Lab](http://cds.iisc.ac.in/faculty/konduriadi/) headed by [Dr. Konduri Aditya](http://cds.iisc.ac.in/faculty/konduriadi/) since 2019. Currently, I am working on developing asynchronous numerical schemes for partial differential equations for exascale computing. My research work focuses on investigating the numerical properties of the asynchronous discontinuous-Galerkin method and developing highly scalable PDE solvers based on asynchronous numerical schemes for massively parallel supercomputers. The aim is to develop a highly scalable asynchronous discontinuous-Galerkin method based PDE solver.
+I am currently a postdoctoral fellow at [Ruhr University](https://math.ruhr-uni-bochum.de/), Bochum, Germany, working with [Dr. Martin Kronbichler](https://math.ruhr-uni-bochum.de/fakultaet/arbeitsbereiche/numerik/gruppe-kronbichler/team/prof-dr-martin-kronbichler/). I completed my PhD under the supervision of [Dr. Konduri Aditya](http://cds.iisc.ac.in/faculty/konduriadi/) in the [FLAME Lab](https://flamelab-iisc.github.io/) at [CDS](http://cds.iisc.ac.in), [IISc Bangalore](https://iisc.ac.in), in July 2024, where I worked on asynchronous numerical schemes for partial differential equations. My PhD research was focused on the development of novel asynchronous numerical schemes based on finite difference and discontinuous Galerkin methods, analyzing their numerical properties and demonstrating scalability on massively parallel supercomputers. The objective of my PhD thesis was to develop a highly scalable DG-based PDE solver for massively parallel flow simulations. 
 
-Apart from research, my other interests include traveling, trekking, and nature photography. I am incredibly fond of nature and its beauty, and I love exploring new places.
+Apart from research, my other interests are traveling and trekking, and I love exploring new places.
 
 ## Interests
 ---
@@ -16,7 +16,7 @@ Apart from research, my other interests include traveling, trekking, and nature 
 ---
   - __Ph.D. in Computational and Data Sciences__ \
     [Indian Institute of Science, Bengaluru](https://iisc.ac.in/) \
-    2019 - Present
+    2019 - 2024
   - __M.Sc. in Mathematics__ \
     [Indian Institute of Technology, Kharagpur](http://iitkgp.ac.in/) \
     2016 - 2018
@@ -26,6 +26,7 @@ Apart from research, my other interests include traveling, trekking, and nature 
 
 ## Awards
 ---
+  - __Best Poster Award__ by Topical Meeting on Computations of High-Speed, Turbulent, and Complex Flows (CHTC) 2024
   - __Best Poster Award__ by IEEE International Conference on High Performance Computing, Data, and Analytics (HiPC) 2023
   - __SIAM Student Travel Award__ by Society for Industrial and Applied Mathematics (SIAM) 2023
   - __Ravi Salgia Student Travel Grant__ by Office of Development and Alumni Affairs, Indian Institute of Science, Bengaluru, India 2023
@@ -35,8 +36,8 @@ Apart from research, my other interests include traveling, trekking, and nature 
 ## Projects 
 ---
 
-### Asynchronous discontinuous-Galerkin method
-The objective is to introduce an asynchronous computing approach to the discontinuous-Galerkin method by relaxing communication/synchronization at a mathematical level while solving time-dependent partial differential equations in a distributed memory setting, analyze the numerical properties of the new formulation, and demonstrate its scalability. The final goal is to develop a highly scalable DG-based PDE solver for massively parallel supercomputers.
+### Asynchronous discontinuous Galerkin method
+The objective of this work was to introduce an asynchronous computing approach to the discontinuous Galerkin method by relaxing communication/synchronization at a mathematical level while solving time-dependent partial differential equations in a distributed memory setting, analyze the numerical properties of the new formulation, and demonstrate its scalability. The final goal was to develop a highly scalable DG-based PDE solver for massively parallel supercomputers within the open-source finite element library deal.II.
 
 ---
 
@@ -54,7 +55,7 @@ The purpose of this project was to derive relations between betti numbers of sim
 ---
 __An asynchronous discontinuous Galerkin method for massively parallel PDE solvers__ \
 S.K. Goswami, K. Aditya \
-arXiv 2024, [doi.org/10.48550/arXiv.2404.03399](https://doi.org/10.48550/arXiv.2404.03399) \
+CMAME 2024, [doi.org/10.1016/j.cma.2024.117218](https://doi.org/10.1016/j.cma.2024.117218) \
 __Implementation of low-storage Runge-Kutta time integration schemes in scalable asynchronous partial differential equation solvers__ \
 S.K. Goswami, V.J. Matthew, K. Aditya \
 Journal of Computational Physics 2023, [doi.org/10.1016/j.jcp.2023.111922](https://doi.org/10.1016/j.jcp.2023.111922) \
