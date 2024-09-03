@@ -78,7 +78,7 @@ APS Division of Fluid Dynamics 2021, [Abstract](https://ui.adsabs.harvard.edu/ab
 ___
 ### Contact
 Mail Id: [Shubham.Goswami@ruhr-uni-bochum.de](mailto:Shubham.Goswami@ruhr-uni-bochum.de) \
-You can also find me on[![alt text][1.1]][1] [![alt text][2.1]][2] and [![alt text][3.1]][3]
+You can also find me on[![alt text][1.2]][1] [![alt text][2.1]][2] and [![alt text][3.2]][3]
 
 
 
