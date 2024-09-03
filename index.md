@@ -90,7 +90,7 @@ You can also find me on [![alt text][4.1]][4] [![alt text][1.2]][1] [![alt text]
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: https://i.stack.imgur.com/gVE0j.png (linkedin)
 [3.1]: https://i.stack.imgur.com/tskMh.png (github icon with padding)
-[4.1]: https://fontawesome.com/icons/google-scholar?f=brands&s=solid (google scholar icon with padding)
+[4.1]: http://www.w3.org/2000/svg (google scholar icon with padding)
 
 <!-- icons without padding -->
 
