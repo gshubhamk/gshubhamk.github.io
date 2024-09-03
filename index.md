@@ -78,7 +78,7 @@ APS Division of Fluid Dynamics 2021, [Abstract](https://ui.adsabs.harvard.edu/ab
 ___
 ### Contact
 Mail Id: [Shubham.Goswami@ruhr-uni-bochum.de](mailto:Shubham.Goswami@ruhr-uni-bochum.de) \
-You can also find me on [![alt text][4.1]][4] [![alt text][1.2]][1] [![alt text][2.1]][2] and [![alt text][3.2]][3]
+You can also find me on [![alt text][4.1]][4] [![alt text][2.2]][2] and [![alt text][3.3]][3]
 
 
 
@@ -90,12 +90,14 @@ You can also find me on [![alt text][4.1]][4] [![alt text][1.2]][1] [![alt text]
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: https://i.stack.imgur.com/gVE0j.png (linkedin)
 [3.1]: https://i.stack.imgur.com/tskMh.png (github icon with padding)
-[4.1]: http://www.w3.org/2000/svg (google scholar icon with padding)
+[4.1]: https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white (google scholar icon with padding)
 
 <!-- icons without padding -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white (Linkedin icon big)
 [3.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[3.3]: https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white (Github icon big)
 
 
 <!-- links to your social media accounts -->
@@ -104,7 +106,7 @@ You can also find me on [![alt text][4.1]][4] [![alt text][1.2]][1] [![alt text]
 [1]: https://twitter.com/shubhamtweets2
 [2]: https://www.linkedin.com/in/shubham-kumar-goswami-7a4a8795
 [3]: https://github.com/gshubhamk
-[4]: https://scholar.google.com/citations?hl=en&user=3XXB62MAAAAJ
+[4]: https://scholar.google.com/citations?user=3XXB62MAAAAJ&hl=en
 
 
 ---
